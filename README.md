@@ -1,5 +1,5 @@
 # GraphColor
-Simple implementation of Graph coloring in addition to graphical representation of graphs using java swing.
+Simple implementation of Graph coloring in addition to visual representation of graphs using java swing.
 
 
 ## Install Instructions
